@@ -1,0 +1,9 @@
+install python 3.4.3
+install anaconda for python 3.4 on 64bit
+install jupyter for python 3.4
+
+run: pip install pyshp
+
+Download GDAL binaries from here: http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+run: pip install <file>.whl
+(the one for python 3.4 is found on this folder)
