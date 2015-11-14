@@ -10,6 +10,8 @@ Household Tax Variation in São Paulo city - 2014
 
 This is a visual representation of the household tax variation in all of São Paulo city's districts.
 
+Shades of red indicate districts that have suffered a household tax increase in 2014, whereas green shades indicate decreases.
+
 Age Distribution in São Paulo city
 --------
 ![Age Distribution in São Paulo](DocImages/OldPeopleSP.PNG)
