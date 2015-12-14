@@ -21,3 +21,10 @@ This is a heatmap of elder citzens of São Paulo city. You can see central - mor
 Whereas, if we plot it for the whole metropolitan areas, we can see other areas in different satellite cities with a greater concentration of elder citzens:
 
 ![Age Distribution in São Paulo metro area](DocImages/OldPeopleSPMetro.png)
+
+Aerial study - Plane flights among Brazilian airports
+--------
+This is a visual representation of the most active plane routes among the most movimented passenger routes in Brazil.
+It uses public data offered by ANAC (National Agency of Civil Aviation), as well as public shapefiles.
+
+![Brazilian flights](DocImages/BrazilPlaneRoutes.PNG)
