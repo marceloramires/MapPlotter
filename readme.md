@@ -26,5 +26,6 @@ Aerial study - Plane flights among Brazilian airports
 --------
 This is a visual representation of the most active plane routes among the most movimented passenger routes in Brazil.
 It uses public data offered by ANAC (National Agency of Civil Aviation), as well as public shapefiles.
+Stronger, bolder red lines indicate high volume of flights on a route, and lighter, thinner yellow lines indicate a route has fewer flights.
 
 ![Brazilian flights](DocImages/BrazilPlaneRoutes.PNG)
